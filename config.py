@@ -8,7 +8,7 @@ logging.info("logging successful")
 config=configparser.ConfigParser()
 
 config.add_section('path')
-config.set('path','pdf_dir',r'C:\Users\Jashwasnth B\OneDrive - TECHTRIAD TEAM INC\Documents\chatbot2\pdfs')
+config.set('path','pdf_dir',r'./pdfs')
 
 with open(r'C:\Users\Jashwasnth B\OneDrive - TECHTRIAD TEAM INC\Documents\chatbot2\logs\configfile.properties','w') as configfile:
     config.write(configfile)
