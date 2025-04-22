@@ -1,0 +1,38 @@
+Application Engineering 1 Scalable software development from web to enterprise applications. Build Run  Application development – Java and .NET (Full stack), Python, UI Frameworks (React, Angular, Ionic, Flutter) 6  DevOps, CI/CD – Maven, git, bitbucket, Jenkins, Bamboo, JUnit, SonarQube, Kubernetes, Docker, Amazon Webservices, Azure  Cloud-based development – AWS, Azure, GCP, Pivotal  API Platforms – Dell Boomi, Tibco, MuleSoft, Apigee  Testing tools – Selenium, TOSCA, Parasoft, Cucumber, Katalon, OpenTest
+
+Advisory &
+Consulting
+IT Strategy &
+Architecture consulting
+Portfolio Rationalization
+Project Mgt & PMO
+
+Application
+Development
+Web & Mobile Apps
+Full Stack Development
+API Management
+Design thinking, UI/UX
+DevOps
+
+Cloud Adoption &
+Migration
+Cloud Assessment
+Application Migration
+Native Application Build
+
+Application Validation
+Functional Testing
+Security Testing
+Performance Testing
+Usability Testing
+Test Automation
+Test Data mgmt
+
+Application Maintenance /
+Support
+Application Monitoring and
+Health checks
+SLA and Service Management
+Continuous Improvement
+

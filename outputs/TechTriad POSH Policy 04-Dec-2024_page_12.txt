@@ -1,0 +1,11 @@
+TechTriad Technology Solutions Pvt Ltd Annexure I Composition and role of IC
+
+Name	Description	Phone
+Number	Email ID	IC Role
+Sumila Rani Pervaram	Manager - Human Resource	9959616787	Sumila@techtriad.com	Presiding Officer
+Pasupuleti Vineela Naidu	Associate Recruiter	9985512099	Vineela@techtriad.com	Member
+Naresh Kumar Turupu	Asst. Manager- Recruitment	9542264949	Naresh@techtriad.com	Member
+Muzakir Hussain	Manager - Finance	9533919045	muzakir@techtriad.com	Member
+Anuradha Reddy	Organization Chief Operating
+Officer (Nirmaan)	9052444978	anuradha.pulla@nirmaan.org	External Member
+

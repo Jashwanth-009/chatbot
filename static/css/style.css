@@ -1,0 +1,120 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #e3f2fd, #ffffff);
+  padding: 40px;
+}
+
+.container {
+  max-width: 650px;
+  margin: auto;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  background: #ffffff; /* ← Set to pure white */
+  box-shadow: 0 0 12px #1976d2, 0 0 24px #00c6ff;
+}
+
+@keyframes colorfulGlow {
+  0% {
+    box-shadow: 0 0 12px #1976d2, 0 0 24px #00c6ff;
+  }
+  /* 25% {
+    box-shadow: 0 0 12px #8e24aa, 0 0 24px #d500f9;
+  }
+  50% {
+    box-shadow: 0 0 12px #43a047, 0 0 24px #76ff03;
+  } */
+  /* 50% {
+    box-shadow: 0 0 12px #ff8f00, 0 0 24px #ffd600;
+  } */
+  100% {
+    box-shadow: 0 0 12px #1976d2, 0 0 24px #00c6ff;
+  }
+}
+
+img {
+  font-size: 32px;
+  margin-bottom: 30px;
+  color: #0b7beb;
+  animation: fadeSlideDown 1.5s ease-out;
+  background: linear-gradient(to right, #000203, #00c6ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 10px rgba(25, 118, 210, 0.2);
+  width: 40%;
+  height: 10%;
+}
+
+@keyframes fadeSlideDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.input-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  width: 70%;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  outline: none;
+}
+
+button {
+  padding: 12px 20px;
+  font-size: 16px;
+  margin-left: 10px;
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background-color: #135ba1;
+}
+
+#response {
+  margin-top: 30px;
+  font-size: 18px;
+  text-align: left;
+  background: #f1f8ff;
+  padding: 15px;
+  border-radius: 8px;
+  border-left: 4px solid #1976d2;
+  white-space: pre-wrap;
+}
+
+.loader {
+  margin: 20px auto;
+  border: 6px solid #f3f3f3;
+  border-top: 6px solid #1976d2;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  animation: spin 1s linear infinite;
+}
+
+.hidden {
+  display: none;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

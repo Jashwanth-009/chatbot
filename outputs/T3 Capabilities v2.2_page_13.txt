@@ -1,0 +1,40 @@
+Business Applications 3 Automate business processes and enhance operational efficiencies and customer satisfaction  RPA (UiPath, Blue Prism, Power Platform) – Automating finance, HR, and IT workflows.  WCM/ECM/CCM (Liferay, Drupal, Sitecore, WordPress, SharePoint, FileNet, Drupal, Documentum, SMART Commn) - Content mgt and Customer Communication  E-commerce Solutions (Magento, Sitecore, SAP Hybris) – Scaling online businesses.  CRM & BPM (Salesforce, Dynamics 365, HubSpot, Service Now, Appian) – Driving customer engagement  ERP (SAP, ORACLE, Microsoft, IBM, JDE) - Streamline their core business processes
+
+RPA
+Assessment /
+Discovery
+Automation build
+Run services
+
+
+
+WCM/ECM/CCM
+Intranet Portals
+Knowledge Mgt
+Platform upgrades
+Content Migration
+Document Mgt
+Customer Commn Mgt
+
+E-Commerce
+Marketplaces
+Order Management
+e-Shops
+Product Sites
+
+
+
+CRM/BPM
+Assessment/Discovery
+Application Modernization
+Platform upgrade
+Cloud Migration
+
+
+ERP
+Implementation
+Support
+
+
+
+

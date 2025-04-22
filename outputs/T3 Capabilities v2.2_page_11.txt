@@ -1,0 +1,2 @@
+Case Study: Crypto Data Standardization for a Fintech firm Business Problem: • Inconsistent financial reporting and regulatory compliance across crypto platforms Solution Implemented: • Fair market value (FMV) calculation based on Exchange data • Standardized governance model with automated data validation Tech Stack: • AWS S3 & EC2, Amazon Aurora, Talend, TMC, PostgreSQL Business Benefits: • Improved Data Quality and accurate pricing in the volatile crypto market. • Regulatory confidence helps exchanges meet global regulatory standards.
+

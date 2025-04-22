@@ -1,0 +1,45 @@
+Data & Analytics 2 Analytics and AI driven insights for smarter business decisions. Data Science & AI 9 Data Intelligence Insights Action  ETL (Informatica, DataStage, SAP, Microsoft, Oracle, Talend)  Bigdata – Data Lake (Azure, AWS, GCP), Netezza, Greenplum, Teradata  MDM / DG – SAP, IBM, Microsoft, Oracle  Visualization – BO, Cognos, OBIEE, SSRS, Power BI, Tableau, Qlik, Spotfire, Plotly  Data Science & AI – Google Analytics, SAS, R, Databricks, D3, TensorFlow, Matplotlib, Python, Azure Analytics
+
+Data Engg &
+Operations
+Data Ingestion / Cleansing
+Data Integrations
+Data Processing
+ETL & ELT
+Real-time Data Streaming
+Data Migration
+
+Advisory &
+Modernization
+Legacy Modernization
+Data Lake
+Data Warehousing
+Cloud Migration
+Big data
+
+
+MDM & Data
+Governance
+Master Data Assessment
+Data Quality & Enrichment
+Data Governance
+Data Lineage
+Data Catalog
+Data Stewardship
+
+Visualization &
+Analytics
+BI & Reporting
+Self-Service BI
+Embedded Analytics
+Mobile BI
+Descriptive Analytics
+Prescriptive Analytics
+
+Predictive Analytics
+NLP
+Computer Vision
+Virtual Agents
+Deep Learning
+Cognitive Analytics
+

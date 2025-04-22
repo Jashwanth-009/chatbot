@@ -1,0 +1,49 @@
+IT Infra and Security Services 4 Protect and manage Client’s IT infrastructure: Vulnerability Assessments  Service Now  Service now  LogRhythm  Tenable  BMC Helix  Metric stream  Splunk  Checkmarx  Jira Service Mgt  Azure Sentinel One  Veracode  Qualys
+
+IT Operations & Services
+Management
+Env monitoring & Queue admin
+Compute, Storage & Network mgmt
+Patch upgrades, Config changes
+DR & Backup/Archival
+
+
+
+
+Governance, Risk &
+Compliance (GRC) Services
+Consulting Srvs –ISMS, BCMS, PCI-
+DSS, NIST, HIPAA, GDPR
+Third Party Risk Management (TPRM)
+Infra & Security Posture Assessments
+V-CISO As A Service
+Ransomware Investigations
+Phishing Services
+
+
+
+
+NextGen Security as a Service
+(SOC) Services
+Shared & Dedicated NextGen MDR
+services:
+SIEM
+UBA
+NBA
+SOAR
+Threat Intelligence
+Threat Hunting
+Dark Web Monitoring
+Vulnerability Assessments
+
+Advanced Threat &
+Vulnerability Management
+Threat Modelling
+SAST (Secure Code reviews)
+DAST (Application Security Testing)
+Infra Vulnerability Assessments &
+Penetration Testing (VAPT)
+Red Teaming
+IOT (SCDA) Penetration Testing)PT
+Mobile PT
+
